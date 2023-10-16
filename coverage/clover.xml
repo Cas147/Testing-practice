@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1697405084461" clover="3.2.0">
+  <project timestamp="1697405084461" name="All files">
+    <metrics statements="24" coveredstatements="23" conditionals="17" coveredconditionals="13" methods="8" coveredmethods="8" elements="49" coveredelements="44" complexity="0" loc="24" ncloc="24" packages="5" files="10" classes="10"/>
+    <package name="components">
+      <metrics statements="6" coveredstatements="6" conditionals="14" coveredconditionals="10" methods="3" coveredmethods="3"/>
+      <file name="CustomButton.component.tsx" path="/Users/andres/Documents/testing-practice/src/components/CustomButton.component.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="18" count="70" type="stmt"/>
+      </file>
+      <file name="CustomImput.component.tsx" path="/Users/andres/Documents/testing-practice/src/components/CustomImput.component.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="12" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="140" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="25" count="140" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/andres/Documents/testing-practice/src/components/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="pages.Login">
+      <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="LoginForm.tsx" path="/Users/andres/Documents/testing-practice/src/pages/Login/LoginForm.tsx">
+        <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="20" count="77" type="stmt"/>
+        <line num="26" count="77" type="stmt"/>
+        <line num="27" count="77" type="stmt"/>
+        <line num="29" count="77" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="40" count="77" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/andres/Documents/testing-practice/src/pages/Login/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="pages.Login.components">
+      <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="DisplayFormValues.component.tsx" path="/Users/andres/Documents/testing-practice/src/pages/Login/components/DisplayFormValues.component.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="70" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/andres/Documents/testing-practice/src/pages/Login/components/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="pages.Login.schema">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="login-form-schema.ts" path="/Users/andres/Documents/testing-practice/src/pages/Login/schema/login-form-schema.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.Login.services">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="call-endpoint.ts" path="/Users/andres/Documents/testing-practice/src/pages/Login/services/call-endpoint.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/andres/Documents/testing-practice/src/pages/Login/services/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
